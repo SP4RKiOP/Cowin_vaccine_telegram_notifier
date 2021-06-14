@@ -6,11 +6,11 @@ from datetime import datetime
 headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 cowinapiurl = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict"
 tgapiurl = "https://api.telegram.org/bot_botapi_/sendMessage?chat_id=@_groupid_&text="
-botapi="######################" #replace ############## with your tg bot http api
-groupid="########" #replace ###### with your group id(check readme if you don't know how to get)
+botapi="######################" #replace ############## with your tg bot http api.
+groupid="########" #replace ###### with your group id(check readme if you don't know how to get).
 curr_date = datetime.now()
-date_formated = curr_date.strftime("%d-%m-%Y")
-age = 18
+date_formated = curr_date.strftime("%d-%m-%Y") #the date format which passes correctly to the cowin api.
+age = 18  #replace with 45 if you want to make notifier for 45 age group vaccination.
 
 def ask_cowin(district_id):
     query = "?district_id={}&date={}".format(district_id, date_formated)
