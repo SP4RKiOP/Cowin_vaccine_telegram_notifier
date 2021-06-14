@@ -27,4 +27,6 @@ git clone https://github.com/SP4RKiOP/Cowin_vaccine_telegram_notifier.git
  Channel ID is the text after the forward slash:-
 <img src="https://cdn.admitad-connect.com/public/storage/2019/03/19/how-to-get-a-channel-link-in-t_ca7ixdJ.png" />
 5. Go through the script for any age change or any data search parameter change you want to make.
-6. GET VACCINATED, STAY HEALTHY.
+6. After sucessfull creation your channel should give you notifications like this:-
+<img src="https://photos.google.com/share/AF1QipOYRZ46i8Hinl3_TrN9egFU-IoV6N5_fXg7AqnXXeufH115mLVSIxPUtdT9qpwR1Q?key=VDlmQTFpQnh3c1RvQTdXNlNIN2pxUF9LWmZTU0hB" />
+8. GET VACCINATED, STAY HEALTHY.
