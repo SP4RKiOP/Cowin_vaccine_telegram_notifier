@@ -19,7 +19,7 @@
  * Telegram Id, Telegram bot and Telegram Channel (All are free).
  
  # Installation
- 1. Clone this repo if you are having linux server or just copy the cowin.py from the repo.
+ 1. Clone this repo if you are having linux server or just copy the *cowin.py* from the repo.
  ```
 git clone https://github.com/SP4RKiOP/Cowin_vaccine_telegram_notifier.git
 ```
