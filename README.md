@@ -9,6 +9,10 @@
     With the initiation of the COVID vaccination drive across India for all 18+ individuals, I wrote a python script which with the help of telegram alerts the user regarding open slots in the vicinity!
   This script can used for both age group alerts 18-44 and 45+ both.
  </p>
+
+ <p align="center">
+    <a href="https://t.me/dhncowin18">Check it out!</a>
+ </p>
  
  # Prerequisites
  * To deploy the script you must be having a server which you can serve 24*7.
